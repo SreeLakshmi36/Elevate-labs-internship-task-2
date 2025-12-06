@@ -33,4 +33,4 @@ Some products show low or negative profit.
 
 Deliverable
 
-Superstore_Visual_Story.pdf (Final Visual Report)
+Superstore_Visualization(Final Visual Report)
